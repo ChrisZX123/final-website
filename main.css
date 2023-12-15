@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+}
+body{
+  background-colaor:black;
+  z-index: -1;
+}
+
+
+h1 {
+  background-color: ghostwhite;
+
+  text-align: center ;
+
+  font-size:150%;
+  text-align:center;
+        margin-top:4px;
+
+}
+p   {
+  
+  text-align: left;
+  color: ghostwhite;
+
+  font-size:120%;
+  text-align:center;
+        margin-top:4px;
+    }
+
+
+h2{
+color: ghostwhite;
+}
+
+h4 {
+  text-align: center;
+  text-justify: spaced-evenly;
+  font-size: 400%;
+  padding: 25px;
+}
+
+   h5 {
+ 
+  text-align: center;
+  color: ghostwhite;
+  font-size: 175%;
+  clear: both;
+  padding-right: 3px
+}
+h6 { text-align: center;
+  color: ghostwhite;
+  font-size: 120%;
+  clear: both;
+  padding-right: 100px
+  padding-left:100px
+
+
+
+  }
+img {
+  margin-right: 20px;
+  padding: 15px;
+}
+
+.bg{
+  background-image: url("images/signature.jpg");
+  background-size: cover;
+  position: right;
+  width: 1080px;
+  height: 810px;
+  position: fixed;
+  top: 0;
+  right: 15%;
+  z-index: -1;
